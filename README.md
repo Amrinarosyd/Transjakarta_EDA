@@ -2,6 +2,7 @@
 # Route Optimization and Passenger Flow Analysis for Transjakarta BRT and Non-BRT Services
 ## Transjakarta Passengers 2021 EDA
 ##### By Amrina Rosyada
+<hr>
 
 ### ⭐️ Understanding the Data
 🌸This data is about accummulation of transjakarta passangers type of BRT, Mikrotrans, and Angkutan Umum Integrasi. The time period is from the month of January 2021 - December 2021.   
